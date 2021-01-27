@@ -5,7 +5,11 @@ import java.util.Scanner;
 public class Insert {
 	
 	public static void main(String[] args) {
+
 		//Anup
+
+		//Haramkhor Sayali
+
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter lenght of the array");
 		int c=sc.nextInt();
